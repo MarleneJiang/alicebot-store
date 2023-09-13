@@ -1,0 +1,15 @@
+{
+  "name": "issue-ops",
+  "version": "0.1.0",
+  "description": "通过issue触发自动化校验，然后提交pr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlene",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "toml": "^3.0.0"
+  }
+}
