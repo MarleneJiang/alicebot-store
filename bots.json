@@ -1,29 +1,4 @@
 {
   "bots": [
-    {
-      "module_name": "iamai",
-      "pypi_name": "iamai",
-      "name": "iamai",
-      "description": "bot framework.",
-      "author": "简律纯",
-      "license": "MIT",
-      "homepage": "https://retrofor.space/",
-      "tags": [
-        "bot",
-        "qq",
-        "qqbot",
-        "mirai",
-        "coolq",
-        "kook",
-        "go-cqhttp",
-        "dingtalk",
-        "console",
-        "apscheduler",
-        "bilibili",
-        "bilibili-live"
-      ],
-      "is_official": false,
-      "time": "2023-08-28 18:57:34"
-    }
   ]
 }
